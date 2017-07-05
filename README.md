@@ -12,7 +12,9 @@
 
 ## 文件说明
 `gen_trick.py` 用于生成traick、全局统计特征等特征
+
 `extra_`用于
+
 `gbdt-lgb_sample_cv.py` 模型训练和预测
 
 ## 数据清洗
